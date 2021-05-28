@@ -1,0 +1,555 @@
+2021-05-19 10:25:42,224 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-19 10:25:42,224 datadriver.py INFO data_dr 开始执行关键字: Open,操作描述：打开网易云音乐网页版
+2021-05-19 10:25:44,004 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录进入登录页面
+2021-05-19 10:25:44,062 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击选着其他方式登录
+2021-05-19 10:25:44,273 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：勾选用户协议
+2021-05-19 10:25:44,311 datadriver.py INFO data_dr 开始执行关键字: assert_text,操作描述：开始断言
+2021-05-19 10:25:44,337 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击qq登录
+2021-05-19 10:25:44,407 datadriver.py INFO data_dr 开始执行关键字: switch_handles,操作描述：切换句柄
+2021-05-19 10:25:44,414 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-19 10:25:44,425 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-19 10:25:52,109 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击qq头像进行登录
+2021-05-19 10:25:52,180 datadriver.py INFO data_dr 开始执行关键字: quit,操作描述：执行结束，关闭浏览器
+2021-05-19 10:29:51,893 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-19 10:29:51,893 datadriver.py INFO data_dr 开始执行关键字: Open,操作描述：打开网易云音乐网页版
+2021-05-19 10:29:53,699 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录进入登录页面
+2021-05-19 10:29:53,761 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击选着其他方式登录
+2021-05-19 10:29:53,855 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：勾选用户协议
+2021-05-19 10:29:53,893 datadriver.py INFO data_dr 开始执行关键字: assert_text,操作描述：开始断言
+2021-05-19 10:29:53,919 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击qq登录
+2021-05-19 10:29:53,994 datadriver.py INFO data_dr 开始执行关键字: switch_handles,操作描述：切换句柄
+2021-05-19 10:29:54,001 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-19 10:29:54,018 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-19 10:29:57,568 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击qq头像进行登录
+2021-05-19 10:29:57,628 datadriver.py INFO data_dr 开始执行关键字: quit,操作描述：执行结束，关闭浏览器
+2021-05-19 10:29:59,860 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-19 10:29:59,860 datadriver.py INFO data_dr 开始执行关键字: Open,操作描述：打开网易云音乐网页版
+2021-05-19 10:33:46,917 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-19 10:33:46,917 datadriver.py INFO data_dr 开始执行关键字: Open,操作描述：打开网易云音乐网页版
+2021-05-19 10:33:49,194 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录进入登录页面
+2021-05-19 10:33:49,250 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击选着其他方式登录
+2021-05-19 10:33:50,356 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：勾选用户协议
+2021-05-19 10:33:50,391 datadriver.py INFO data_dr 开始执行关键字: assert_text,操作描述：开始断言
+2021-05-19 10:33:50,417 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击qq登录
+2021-05-19 10:33:50,491 datadriver.py INFO data_dr 开始执行关键字: switch_handles,操作描述：切换句柄
+2021-05-19 10:33:50,497 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-19 10:33:50,508 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-19 10:33:54,652 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击qq头像进行登录
+2021-05-19 10:33:54,720 datadriver.py INFO data_dr 开始执行关键字: quit,操作描述：执行结束，关闭浏览器
+2021-05-19 10:33:56,960 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-19 10:33:56,961 datadriver.py INFO data_dr 开始执行关键字: Open,操作描述：打开网易云音乐网页版
+2021-05-19 11:12:47,314 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-19 11:12:47,314 datadriver.py INFO data_dr 开始执行关键字: open_browser,操作描述：打开谷歌浏览器
+2021-05-19 11:19:24,103 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-19 11:19:24,103 datadriver.py INFO data_dr 开始执行关键字: open_browser,操作描述：打开谷歌浏览器
+2021-05-19 11:21:40,919 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-19 11:21:40,919 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开网易云音乐网页版
+2021-05-19 11:21:43,494 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录进入登录页面
+2021-05-19 13:39:34,809 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-19 13:39:36,053 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开网易云音乐网页版
+2021-05-19 13:39:41,829 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录进入登录页面
+2021-05-19 13:39:41,905 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击选着其他方式登录
+2021-05-19 13:39:42,026 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：勾选用户协议
+2021-05-19 13:39:42,098 datadriver.py INFO data_dr 开始执行关键字: assert_text,操作描述：开始断言
+2021-05-19 13:39:42,154 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击qq登录
+2021-05-19 13:39:42,252 datadriver.py INFO data_dr 开始执行关键字: switch_handles,操作描述：切换句柄
+2021-05-19 13:39:42,284 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-19 13:39:42,318 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-19 13:39:46,646 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击qq头像进行登录
+2021-05-19 13:39:46,725 datadriver.py INFO data_dr 开始执行关键字: quit,操作描述：执行结束，关闭浏览器
+2021-05-19 13:44:07,462 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-19 13:44:08,651 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开网易云音乐网页版
+2021-05-19 13:44:10,147 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录进入登录页面
+2021-05-19 13:44:10,235 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击选着其他方式登录
+2021-05-19 13:44:10,350 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：勾选用户协议
+2021-05-19 13:44:10,410 datadriver.py INFO data_dr 开始执行关键字: assert_text,操作描述：开始断言
+2021-05-19 13:44:10,465 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击qq登录
+2021-05-19 13:44:10,561 datadriver.py INFO data_dr 开始执行关键字: switch_handles,操作描述：切换句柄
+2021-05-19 13:44:10,593 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-19 13:44:10,627 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-19 13:44:13,926 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击qq头像进行登录
+2021-05-19 13:44:14,011 datadriver.py INFO data_dr 开始执行关键字: quit,操作描述：执行结束，关闭浏览器
+2021-05-19 13:44:16,202 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-19 13:44:17,349 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开网易云音乐网页版
+2021-05-19 13:44:18,639 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录进入登录页面
+2021-05-19 13:44:18,720 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击选着其他方式登录
+2021-05-19 13:44:18,821 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：勾选用户协议
+2021-05-19 13:44:18,867 datadriver.py INFO data_dr 开始执行关键字: assert_text,操作描述：开始断言
+2021-05-19 13:44:18,912 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击qq登录
+2021-05-19 13:44:18,998 datadriver.py INFO data_dr 开始执行关键字: switch_handles,操作描述：切换句柄
+2021-05-19 13:44:19,014 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-19 13:44:19,035 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-19 13:44:22,125 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击qq头像进行登录
+2021-05-19 13:44:22,207 datadriver.py INFO data_dr 开始执行关键字: quit,操作描述：执行结束，关闭浏览器
+2021-05-19 15:35:15,078 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-19 15:35:16,284 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-19 15:35:19,824 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-19 15:35:20,116 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-19 15:35:20,314 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：点击登录按钮，实现登录
+2021-05-19 15:36:27,832 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-19 15:36:29,059 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-19 15:36:30,061 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-19 15:36:30,153 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-19 15:36:30,239 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-19 15:36:30,389 datadriver.py INFO data_dr 开始执行关键字: quit,操作描述：退出浏览器
+2021-05-19 15:50:46,605 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-19 15:50:47,719 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-19 15:50:52,606 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-19 15:50:52,683 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-19 15:50:52,772 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选着角色
+2021-05-19 15:50:52,896 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选着角色
+2021-05-19 15:50:52,969 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-19 17:14:54,436 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-19 17:14:55,615 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-19 17:15:00,420 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-19 17:15:00,503 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-19 17:15:00,592 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选着角色
+2021-05-19 17:15:00,733 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选着角色
+2021-05-19 17:15:00,811 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-19 17:15:29,662 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-19 17:15:30,838 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-19 17:15:39,562 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-19 17:15:43,639 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-19 17:15:47,733 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选着角色
+2021-05-19 17:15:52,365 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选着角色
+2021-05-19 17:15:56,460 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-19 17:16:30,753 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-19 17:16:31,956 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-19 17:16:45,004 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-19 17:16:53,098 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-19 17:17:01,210 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选着角色
+2021-05-19 17:17:09,370 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选着角色
+2021-05-19 17:17:17,467 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-19 17:19:34,948 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-19 17:19:36,131 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-19 17:19:46,851 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-19 17:19:50,933 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-19 17:19:55,050 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选着角色
+2021-05-19 17:19:59,193 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选着角色
+2021-05-19 17:20:03,289 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-21 15:06:40,136 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-21 15:06:42,313 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-21 15:06:52,506 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-21 15:06:56,602 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-21 15:07:00,702 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-21 15:07:04,777 datadriver.py INFO data_dr 开始执行关键字: quit,操作描述：退出浏览器
+2021-05-21 15:07:10,998 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-21 15:07:12,590 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-21 15:07:20,648 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-21 15:07:24,723 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-21 15:07:28,810 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选着角色
+2021-05-21 15:07:32,941 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选着角色
+2021-05-21 15:07:37,039 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-21 15:07:44,215 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-21 15:07:45,749 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-21 15:07:50,495 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-21 15:07:54,615 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-21 15:07:58,702 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-21 15:08:02,783 datadriver.py INFO data_dr 开始执行关键字: quit,操作描述：退出浏览器
+2021-05-21 15:11:47,471 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-21 15:11:49,107 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-21 15:11:53,686 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-21 15:11:57,797 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-21 15:12:01,887 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-21 15:12:05,975 datadriver.py INFO data_dr 开始执行关键字: quit,操作描述：退出浏览器
+2021-05-21 15:12:12,191 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-21 15:12:13,736 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开网易云音乐网页版
+2021-05-21 15:12:19,452 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录进入登录页面
+2021-05-21 15:12:23,538 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击选着其他方式登录
+2021-05-21 15:12:27,615 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：勾选用户协议
+2021-05-21 15:12:31,687 datadriver.py INFO data_dr 开始执行关键字: assert_text,操作描述：开始断言
+2021-05-21 15:12:31,732 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击qq登录
+2021-05-21 15:12:35,868 datadriver.py INFO data_dr 开始执行关键字: switch_handles,操作描述：切换句柄
+2021-05-21 15:12:39,912 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-21 15:12:43,961 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-21 15:12:48,014 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击qq头像进行登录
+2021-05-21 15:12:52,112 datadriver.py INFO data_dr 开始执行关键字: quit,操作描述：执行结束，关闭浏览器
+2021-05-21 15:12:58,349 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-21 15:12:59,929 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-21 15:13:04,502 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-21 15:13:08,617 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-21 15:13:12,703 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-21 15:13:16,791 datadriver.py INFO data_dr 开始执行关键字: quit,操作描述：退出浏览器
+2021-05-21 15:13:23,086 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-21 15:13:24,694 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开网易云音乐网页版
+2021-05-21 15:13:30,202 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录进入登录页面
+2021-05-21 15:38:10,308 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-21 15:38:12,020 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-21 15:38:20,570 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-21 15:38:30,185 datadriver.py INFO data_dr 开始执行测试用例
+2021-05-21 15:38:31,777 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-21 15:38:36,390 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-21 15:38:40,495 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-21 15:38:44,571 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-21 15:38:48,650 datadriver.py INFO data_dr 开始执行关键字: quit,操作描述：退出浏览器
+2021-05-21 15:45:40,936 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-21 15:45:42,525 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-21 15:45:47,028 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-21 15:45:51,128 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-21 15:45:55,225 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-21 15:45:59,299 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-21 15:51:11,210 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-21 15:51:12,844 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-21 15:51:17,350 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-21 15:51:21,464 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-21 15:51:25,561 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-21 15:51:29,644 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-21 15:59:16,983 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-21 15:59:18,655 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-21 15:59:23,224 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-21 15:59:27,301 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-21 15:59:31,387 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-21 15:59:35,459 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-21 15:59:39,491 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-21 15:59:44,733 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击挂号，进入挂号页面
+2021-05-21 16:00:08,288 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-21 16:00:09,926 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-21 16:00:14,467 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-21 16:00:18,575 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-21 16:00:22,662 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-21 16:00:26,746 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-21 16:00:30,785 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-21 16:00:36,186 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击挂号，进入挂号页面
+2021-05-21 16:35:25,030 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-21 16:35:26,668 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-21 16:35:31,279 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-21 16:35:35,380 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-21 16:35:39,462 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-21 16:35:43,544 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-21 16:35:47,592 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-21 16:35:52,721 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击挂号，进入挂号页面
+2021-05-21 16:35:59,229 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击自费挂号
+2021-05-21 16:50:47,956 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-21 16:50:49,453 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-21 16:50:53,991 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-21 16:50:58,078 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-21 16:51:02,155 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-21 16:51:06,222 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-21 16:51:10,252 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-21 16:51:15,789 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击挂号，进入挂号页面
+2021-05-21 16:51:22,210 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击自费挂号
+2021-05-21 19:30:44,945 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-21 19:30:46,512 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-21 19:30:51,238 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-21 19:30:55,358 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-21 19:30:59,458 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-21 19:31:03,541 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-21 19:31:07,573 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-21 19:31:12,497 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击挂号，进入挂号页面
+2021-05-21 19:31:18,931 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击自费挂号
+2021-05-21 19:33:58,333 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-21 19:34:00,127 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-21 19:34:04,602 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-21 19:34:08,689 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-21 19:34:12,778 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-21 19:34:16,856 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-21 19:34:20,887 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-21 19:34:26,234 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击挂号，进入挂号页面
+2021-05-21 19:34:32,633 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击自费挂号
+2021-05-21 19:53:45,237 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-21 19:53:46,777 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-21 19:53:51,597 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-21 19:53:55,696 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-21 19:53:59,759 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-21 19:54:03,824 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-21 19:54:07,856 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-21 19:54:12,819 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击挂号，进入挂号页面
+2021-05-21 19:54:19,269 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-21 19:54:23,309 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击自费挂号
+2021-05-21 20:08:49,921 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-21 20:08:51,647 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-21 20:08:56,752 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-21 20:09:00,848 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-21 20:09:04,933 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-21 20:09:09,002 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-21 20:09:13,022 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-21 20:09:18,761 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击挂号，进入挂号页面
+2021-05-21 20:09:25,834 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-21 20:09:29,887 datadriver.py INFO data_dr 开始执行关键字: clicks,操作描述：点击自费挂号
+2021-05-21 20:12:48,721 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-21 20:12:50,278 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-21 20:12:55,207 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-21 20:12:59,298 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-21 20:13:03,378 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-21 20:13:07,450 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-21 20:13:11,488 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-21 20:13:16,156 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击挂号，进入挂号页面
+2021-05-21 20:13:22,574 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-21 20:13:26,613 datadriver.py INFO data_dr 开始执行关键字: clicks,操作描述：点击自费挂号
+2021-05-21 20:14:17,518 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-21 20:14:19,071 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-21 20:14:23,609 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-21 20:14:27,707 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-21 20:14:31,785 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-21 20:14:35,864 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-21 20:14:39,899 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-21 20:14:44,887 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击挂号，进入挂号页面
+2021-05-21 20:14:51,276 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-21 20:14:55,341 datadriver.py INFO data_dr 开始执行关键字: clicks,操作描述：点击自费挂号
+2021-05-21 20:17:35,125 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-21 20:17:36,640 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-21 20:17:41,398 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-21 20:17:45,487 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-21 20:17:49,587 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-21 20:17:53,660 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-21 20:17:57,686 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-21 20:18:02,372 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击挂号，进入挂号页面
+2021-05-21 20:18:08,773 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-21 20:18:12,813 datadriver.py INFO data_dr 开始执行关键字: clicks,操作描述：点击自费挂号
+2021-05-21 20:20:04,141 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-21 20:20:05,691 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-21 20:20:10,401 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-21 20:20:14,486 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-21 20:20:18,563 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-21 20:20:22,634 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-21 20:20:26,664 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-21 20:20:31,457 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击挂号，进入挂号页面
+2021-05-21 20:20:37,852 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-21 20:20:41,895 datadriver.py INFO data_dr 开始执行关键字: clicks,操作描述：点击自费挂号
+2021-05-24 11:37:46,968 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-24 11:37:48,736 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-24 11:37:53,515 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-24 11:37:57,645 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-24 11:38:01,747 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-24 11:38:05,835 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-24 11:38:09,875 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-24 11:38:14,905 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击挂号，进入挂号页面
+2021-05-24 11:38:21,517 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-24 11:38:25,565 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：None
+2021-05-24 11:38:29,681 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入挂号人姓名
+2021-05-24 11:38:33,784 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击就怎医生选项
+2021-05-24 11:38:37,909 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选择鲍医生
+2021-05-24 11:38:41,974 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击完成就诊
+2021-05-24 13:35:20,179 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-24 13:35:24,026 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-25 09:24:48,132 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-25 09:24:50,415 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-25 09:25:07,445 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-25 09:25:11,543 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-25 09:25:15,623 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-25 09:25:19,694 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-25 09:25:23,726 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-25 09:25:30,147 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击挂号，进入挂号页面
+2021-05-25 09:25:36,735 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-25 09:25:40,784 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选择自费方式进行挂号
+2021-05-25 09:25:44,892 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入挂号人姓名
+2021-05-25 09:25:49,023 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入患者身份证号码
+2021-05-25 09:28:10,733 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-25 09:28:12,409 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-25 09:28:23,253 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-25 09:28:27,360 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-25 09:28:31,443 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-25 09:28:35,525 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-25 09:28:39,565 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-25 09:28:44,504 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击挂号，进入挂号页面
+2021-05-25 09:28:56,664 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-25 09:29:00,709 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选择自费方式进行挂号
+2021-05-25 09:29:04,827 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入挂号人姓名
+2021-05-25 09:29:08,940 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入患者家庭住址
+2021-05-25 09:37:38,652 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-25 09:37:40,299 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-25 09:37:45,610 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-25 09:37:49,715 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-25 09:37:53,809 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-25 09:37:57,899 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-25 09:38:01,939 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-25 09:38:07,044 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击挂号，进入挂号页面
+2021-05-25 09:38:13,825 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-25 09:38:17,880 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选择自费方式进行挂号
+2021-05-25 09:38:21,996 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入挂号人姓名
+2021-05-25 09:38:26,115 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选择性别为女
+2021-05-25 09:38:30,226 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入患者家庭住址
+2021-05-25 09:48:46,906 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-25 09:48:48,583 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-25 09:48:54,619 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-25 09:48:58,734 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-25 09:49:02,802 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-25 09:49:06,872 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-25 09:49:11,945 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-25 09:49:16,952 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击挂号，进入挂号页面
+2021-05-25 09:49:23,715 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-25 09:49:27,772 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选择自费方式进行挂号
+2021-05-25 09:49:31,893 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入挂号人姓名
+2021-05-25 09:49:35,989 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选择性别为女
+2021-05-25 09:49:40,096 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入患者家庭住址
+2021-05-25 09:49:44,180 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入患者身份证号码
+2021-05-25 10:09:42,440 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-25 10:09:44,118 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-25 10:09:49,374 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-25 10:09:53,491 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-25 10:09:57,586 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-25 10:10:01,668 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-25 10:10:05,707 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-25 10:10:10,677 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击挂号，进入挂号页面
+2021-05-25 10:10:17,176 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-25 10:10:21,226 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选择自费方式进行挂号
+2021-05-25 10:10:25,342 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入挂号人姓名
+2021-05-25 10:10:29,450 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选择性别为女
+2021-05-25 10:10:33,551 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入患者家庭住址
+2021-05-25 10:10:37,661 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入患者手机号
+2021-05-25 10:10:41,751 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入患者身份证号码
+2021-05-25 10:13:30,860 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-25 10:18:10,105 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-25 10:18:11,691 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-25 10:18:27,321 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-25 10:18:31,427 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-25 10:18:35,527 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-25 10:18:39,607 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-25 10:18:43,649 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-25 10:18:55,157 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击挂号，进入挂号页面
+2021-05-25 10:19:49,599 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-25 10:20:01,156 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-25 10:20:02,734 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-25 10:20:40,240 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-25 10:20:44,343 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-25 10:20:48,420 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-25 10:20:52,509 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-25 10:20:56,705 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-25 10:21:02,571 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击挂号，进入挂号页面
+2021-05-25 10:21:09,260 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-25 10:21:13,317 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选择自费方式进行挂号
+2021-05-25 10:21:17,430 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入挂号人姓名
+2021-05-25 10:21:21,539 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选择性别为女
+2021-05-25 10:21:25,641 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入患者家庭住址
+2021-05-25 10:21:29,745 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入患者手机号
+2021-05-25 10:21:33,837 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入患者身份证号码
+2021-05-25 10:21:37,950 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击就怎医生选项
+2021-05-25 10:21:42,044 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选择鲍医生
+2021-05-25 10:21:46,100 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击完成就诊
+2021-05-25 10:21:50,479 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击接诊，进入接诊界面
+2021-05-25 10:36:17,915 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-25 10:36:20,106 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-25 10:36:26,189 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-25 10:36:30,297 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-25 10:36:41,661 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-25 10:36:43,205 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-25 10:36:44,466 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-25 10:36:45,781 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-25 10:36:49,506 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-25 10:36:50,986 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-25 10:37:57,703 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-25 10:37:59,278 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-25 10:54:02,242 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-25 10:54:03,866 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-25 10:54:08,651 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-25 10:54:12,756 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-25 10:54:16,855 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-25 10:54:20,940 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-25 10:54:24,981 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-25 10:54:31,174 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击挂号，进入挂号页面
+2021-05-25 10:54:37,719 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-25 10:54:41,775 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选择自费方式进行挂号
+2021-05-25 10:54:45,881 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入挂号人姓名
+2021-05-25 10:54:49,999 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选择性别为女
+2021-05-25 10:54:54,099 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入患者家庭住址
+2021-05-25 10:54:58,198 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入患者手机号
+2021-05-25 10:55:02,295 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入患者身份证号码
+2021-05-25 10:55:06,390 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击就怎医生选项
+2021-05-25 10:55:10,489 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选择鲍医生
+2021-05-25 10:55:14,542 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击完成就诊
+2021-05-25 10:55:19,657 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击接诊，进入接诊界面
+2021-05-25 10:55:31,713 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-25 10:55:33,275 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-25 10:55:38,273 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-25 10:55:42,383 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-25 11:10:46,698 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-25 11:10:48,319 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-25 11:10:52,899 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-25 11:10:56,987 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-25 11:11:01,067 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-25 11:11:05,125 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-25 11:11:09,161 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-25 11:11:13,236 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击挂号，进入挂号页面
+2021-05-25 11:11:17,315 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-25 11:11:21,378 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选择自费方式进行挂号
+2021-05-25 11:11:40,688 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-25 11:11:42,261 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-25 11:11:47,647 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-25 11:11:51,756 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-25 13:46:49,317 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-25 13:46:51,342 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开网易云音乐网页版
+2021-05-25 13:47:02,051 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录进入登录页面
+2021-05-25 13:47:06,137 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击选着其他方式登录
+2021-05-25 13:47:10,208 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：勾选用户协议
+2021-05-25 13:47:14,274 datadriver.py INFO data_dr 开始执行关键字: assert_text,操作描述：开始断言
+2021-05-25 13:47:14,321 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击qq登录
+2021-05-25 13:47:18,461 datadriver.py INFO data_dr 开始执行关键字: switch_handles,操作描述：切换句柄
+2021-05-25 13:47:22,486 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-25 13:47:26,524 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-25 13:47:30,587 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击qq头像进行登录
+2021-05-25 13:47:34,672 datadriver.py INFO data_dr 开始执行关键字: quit,操作描述：执行结束，关闭浏览器
+2021-05-25 13:49:01,968 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-25 13:49:03,503 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-25 13:49:14,089 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-25 13:49:18,200 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-25 13:49:22,299 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-25 13:49:26,379 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-25 13:49:31,859 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-25 13:49:37,876 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击挂号，进入挂号页面
+2021-05-25 13:49:45,001 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-25 13:49:49,045 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选择自费方式进行挂号
+2021-05-25 13:49:53,157 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入挂号人姓名
+2021-05-25 13:49:57,261 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选择性别为女
+2021-05-25 13:50:01,347 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入患者家庭住址
+2021-05-25 13:50:05,451 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入患者手机号
+2021-05-25 13:50:09,551 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入患者身份证号码
+2021-05-25 13:50:13,657 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击就怎医生选项
+2021-05-25 13:50:17,765 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选择鲍医生
+2021-05-25 13:50:21,833 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击完成就诊
+2021-05-25 13:50:26,175 datadriver.py INFO data_dr 开始执行关键字: quit_iframe,操作描述：退出iframe
+2021-05-25 13:50:30,199 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击接诊，进入接诊界面
+2021-05-25 13:50:38,192 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-25 13:50:42,231 datadriver.py INFO data_dr 开始执行关键字: assert_text,操作描述：断言执行流程是否正确
+2021-05-25 13:50:42,262 datadriver.py INFO data_dr 开始执行关键字: quit,操作描述：关闭浏览器
+2021-05-25 14:35:31,348 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-25 14:35:32,984 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-25 14:35:37,781 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-25 14:35:41,884 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-25 14:35:45,965 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-25 14:35:50,059 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-25 14:35:54,086 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-25 14:35:59,049 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击挂号，进入挂号页面
+2021-05-25 14:36:05,494 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-25 14:36:09,535 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选择自费方式进行挂号
+2021-05-25 14:36:13,660 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入挂号人姓名
+2021-05-25 14:36:17,782 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选择性别为女
+2021-05-25 14:36:21,879 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入患者家庭住址
+2021-05-25 14:36:25,981 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入患者手机号
+2021-05-25 14:36:30,078 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入患者身份证号码
+2021-05-25 14:36:34,186 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击就怎医生选项
+2021-05-25 14:36:38,307 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选择鲍医生
+2021-05-25 14:36:42,366 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击完成就诊
+2021-05-25 14:36:46,507 datadriver.py INFO data_dr 开始执行关键字: quit_iframe,操作描述：退出iframe
+2021-05-25 14:36:50,848 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击接诊，进入接诊界面
+2021-05-25 14:36:56,157 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-25 14:37:00,207 datadriver.py INFO data_dr 开始执行关键字: assert_text,操作描述：断言执行流程是否正确
+2021-05-25 14:37:00,238 datadriver.py INFO data_dr 开始执行关键字: quit,操作描述：关闭浏览器
+2021-05-25 16:26:32,042 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-25 16:26:33,935 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-25 16:26:38,923 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
+2021-05-25 16:26:43,021 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入密码
+2021-05-25 16:26:47,105 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录按钮，实现登录
+2021-05-25 16:26:51,192 datadriver.py INFO data_dr 开始执行关键字: get_title,操作描述：获取标题栏
+2021-05-25 16:26:55,239 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击首页，进入首页页面
+2021-05-25 16:27:00,367 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击挂号，进入挂号页面
+2021-05-25 16:27:06,827 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-25 16:27:10,879 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选择自费方式进行挂号
+2021-05-25 16:27:14,991 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入挂号人姓名
+2021-05-25 16:27:19,111 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选择性别为女
+2021-05-25 16:27:23,213 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入患者家庭住址
+2021-05-25 16:27:27,326 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入患者手机号
+2021-05-25 16:27:31,420 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入患者身份证号码
+2021-05-25 16:27:35,537 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击就怎医生选项
+2021-05-25 16:27:39,647 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：选择鲍医生
+2021-05-25 16:27:43,711 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击完成就诊
+2021-05-25 16:27:47,899 datadriver.py INFO data_dr 开始执行关键字: quit_iframe,操作描述：退出iframe
+2021-05-25 16:27:52,140 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击接诊，进入接诊界面
+2021-05-25 16:27:57,407 datadriver.py INFO data_dr 开始执行关键字: cut_iframe,操作描述：切换到iframe
+2021-05-25 16:28:01,469 datadriver.py INFO data_dr 开始执行关键字: assert_text,操作描述：断言执行流程是否正确
+2021-05-25 16:28:01,506 datadriver.py INFO data_dr 开始执行关键字: quit,操作描述：关闭浏览器
+2021-05-25 16:28:07,748 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-25 16:28:09,260 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开网易云音乐网页版
+2021-05-25 16:28:14,868 datadriver.py INFO data_dr 开始执行关键字: click,操作描述：点击登录进入登录页面
+2021-05-25 19:12:50,450 datadriver.py INFO data_dr 开始读取测试用例
+2021-05-25 19:12:52,052 datadriver.py INFO data_dr 开始执行关键字: open,操作描述：打开全诊通医疗系统
+2021-05-25 19:12:56,768 datadriver.py INFO data_dr 开始执行关键字: input,操作描述：输入账号
